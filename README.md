@@ -1,2 +1,5 @@
-# EAR
-Coming soon
+# EAR-XLT
+
+The PyTorch implementation for our paper:
+
+[A Simple and Effective Method to Improve Zero-Shot Cross-Lingual Transfer Learning](https://aclanthology.org/2022.coling-1.385/)
